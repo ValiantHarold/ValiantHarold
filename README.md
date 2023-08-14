@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## 📊 Stats
 
 <!-- <div style="display: flex; justify-content: space-between; gap: 1rem;"> -->
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="Overall Stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight" alt="Top Langs">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="ValiantWolf's GitHub Stats">
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight" alt="Most Used Languages">
 <!-- </div> -->
