@@ -35,12 +35,12 @@ Here are some ideas to get you started:
   </tr>
 </table> -->
 
-<picture>
+<picture style="height: 200px">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=rose">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=buefy" style="height:200px">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=rose">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=buefy" style="height:200px">
 </picture>
