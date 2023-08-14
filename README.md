@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-<div class="">
-  <img class="" src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars" alt="Overall Stats">
-  <img class="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact" alt="Top Langs">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars" alt="Overall Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact" alt="Top Langs" height="200">
 </div>
