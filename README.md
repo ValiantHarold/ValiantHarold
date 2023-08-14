@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </div>
 </div> -->
 
-<table style="border-collapse: collapse;">
+<!-- <table style="border-collapse: collapse;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="ValiantWolf's GitHub Stats" height="200">
@@ -33,4 +33,9 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight" alt="Most Used Languages" height="200">
     </td>
   </tr>
-</table>
+</table> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=rose">
+</picture>
