@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </tr>
 </table> -->
 
-<div style="display: flex; flex-direction: row; gap: 1rem; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1rem;">
 
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight">
