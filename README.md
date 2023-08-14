@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </div>
 </div> -->
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="ValiantWolf's GitHub Stats" height="200">
