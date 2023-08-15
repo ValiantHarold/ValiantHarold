@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
    <!-- Languages -->
 
-   <a href="https://docs.python.org/3/" target="_blank" rel="noopener noreferrer">
+   <a href="https://docs.python.org/3/" >
       <img
          alt="Python"
          width="30px"
