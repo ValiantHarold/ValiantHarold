@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
+
 ### 🧰 Languages and Tools
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
    <img alt="figma" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-<!-- ### 📊 Stats
+### 📊 Stats
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
@@ -58,7 +60,7 @@ Here are some ideas to get you started:
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight">
       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=buefy" height=175>
    </picture>
-</div> -->
+</div>
 
 <!-- May use later -->
 <!-- <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=ValiantWolf&repo=reponame" height=150 > -->
