@@ -1,7 +1,7 @@
-# ValiantWolf
+# ValiantHarold
 
 <!--
-**ValiantWolf/ValiantWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ValiantHarold/ValiantHarold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=tokyonight">
-      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=ValiantWolf&count_private=true&show_icons=true&hide=stars&theme=buefy" height=175 >
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ValiantHarold&count_private=true&show_icons=true&hide=stars&theme=tokyonight">
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api?username=ValiantHarold&count_private=true&show_icons=true&hide=stars&theme=buefy" height=175 >
    </picture>
 
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=tokyonight">
-      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWolf&layout=compact&theme=buefy" height=175>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantHarold&layout=compact&theme=tokyonight">
+      <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantHarold&layout=compact&theme=buefy" height=175>
    </picture>
 </div>
 
 <!-- May use later -->
-<!-- <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=ValiantWolf&repo=reponame" height=150 > -->
+<!-- <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=ValiantHarold&repo=reponame" height=150 > -->
