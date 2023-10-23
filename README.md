@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    <img alt="R" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
    <img alt="Rust" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="background-color: blue;" width="100px">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="100px" style="filter: invert(100%) sepia(100%) hue-rotate(180deg) saturate(500%);">
       <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" style="padding:5px;">
    </picture>
 
