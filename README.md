@@ -27,10 +27,11 @@ Here are some ideas to get you started:
    <img alt="JavaScript" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img alt="R" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
    <img alt="Rust" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="100px" style="filter: invert(100%) sepia(100%) hue-rotate(180deg) saturate(500%);">
+   <img src="/images/rust.svg">
+   <!-- <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/images/rust.svg">
       <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" style="padding:5px;">
-   </picture>
+   </picture> -->
 
    <!-- Source Control -->
    <img alt="Git" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
