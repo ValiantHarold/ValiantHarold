@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <img alt="JavaScript" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img alt="R" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
    <img alt="Rust" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-   <img alt="Rust" width="50px" style="padding:5px;" src="https://github.com/ValiantHarold/ValiantHarold/blob/main/images/rust.svg" />
+   <img alt="circle" width="50px" style="padding:5px;" src="https://github.com/ValiantHarold/ValiantHarold/blob/main/images/circle.svg" />
    <!-- <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust.svg" width="75px">
       <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50px" style="padding:5px;">
