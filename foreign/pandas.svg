@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path id="pandas" d="M29.017,36.087L41.267,36.087L41.267,120.639L29.017,120.639L29.017,36.087ZM67.97,88.414L80.22,88.414L80.22,113.85L67.97,113.85L67.97,88.414ZM87.238,8.55L99.488,8.55L99.488,93.102L87.238,93.102L87.238,8.55ZM48.697,67.427L60.947,67.427L60.947,92.863L48.697,92.863L48.697,67.427ZM67.97,36.117L80.22,36.117L80.22,61.554L67.97,61.554L67.97,36.117ZM48.697,15.176L60.947,15.176L60.947,40.613L48.697,40.613L48.697,15.176Z" style="fill:#130754;fill-rule:nonzero;"/>
+    <rect id="pandas-2" x="48.697" y="48.037" width="12.25" height="12.001" style="fill:#ffca00;fill-rule:nonzero;"/>
+    <rect id="pandas-1" x="67.97" y="68.983" width="12.25" height="12.001" style="fill:#e70488;fill-rule:nonzero;"/>
+</svg>
