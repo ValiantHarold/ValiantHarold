@@ -1,4 +1,8 @@
-css selector does work as expected
+css selectors that do not work as expected
+
+```
+gap: 5px;
+```
 
 ```
 svg:nth-child(n+1):nth-child(-n+10) {
