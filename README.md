@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
-
-<img src='./images/foreignObject.svg' />
-
 ### 🧰 Languages and Tools
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
