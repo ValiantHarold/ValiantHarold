@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
    <!-- Languages -->
-   <img alt="Python" width="50px" style="padding:5px;" src="./images/python.svg" />
-   <img alt="TypeScript" width="50px" style="padding:5px;" src="./images/typeScript.svg" />
-   <img alt="JavaScript" width="50px" style="padding:5px;" src="./images/javaScript.svg" />
+   <img alt="Python" width="50px" style="padding:5px;" src="./foreign/python.svg" />
+   <img alt="TypeScript" width="50px" style="padding:5px;" src="./foreign/typeScript.svg" />
+   <img alt="JavaScript" width="50px" style="padding:5px;" src="./foreign/javaScript.svg" />
    <img alt="R" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
    <img alt="Rust" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
    
