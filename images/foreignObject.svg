@@ -15,8 +15,8 @@
 				}
 
 				svg {
-					padding: 0 1vmax;
-					width: 20vmax;
+					padding: 0 1%;
+					width: 7%;
 					opacity: 0;
 					animation: reveal 1s ease-out forwards;
 				}
