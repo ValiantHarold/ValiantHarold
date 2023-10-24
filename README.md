@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 
-<img width="100%" src="./images/foreignObject.svg"/>
+<img width="100%" height="100%" src="./images/foreignObject.svg"/>
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
