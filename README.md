@@ -57,7 +57,7 @@ Here are some ideas to get you started:
    <img alt="Figma" width="50px" style="padding:5px;" src="./foreign/figma.svg" />
 </div>
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantHarold&layout=compact&theme=tokyonight">
       <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantHarold&layout=compact&theme=buefy" height=175>
    </picture>
-</div>
+</div> -->
 
 <!-- May use later -->
 <!-- <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=ValiantHarold&repo=reponame" height=150 > -->
