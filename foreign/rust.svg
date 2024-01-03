@@ -18,19 +18,43 @@
                fill: white;
             }
          }
-         @keyframes spin {
+
+         @keyframes rust-slide {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(0);
+            }
+         }
+
+         @keyframes spin-slide {
             0% {
                transform-origin: center center;
-               transform: rotate(0deg);
+               transform: translateX(100%) rotate(0deg);
             }
             100% {
                transform-origin: center center;
+               transform: translateX(0) rotate(240deg);
+            }
+         }
+
+         @keyframes spin {
+            0% {
+               transform: rotate(240deg);
+            }
+            100% {
                transform: rotate(360deg);
             }
-        }
+         }
+
+         #rust {
+            animation: rust-slide 2s linear forwards;
+         }
 
          #ring {
-            animation: spin 3s ease-in forwards;
+            animation: spin-slide 2s linear forwards, spin 1s linear forwards;
+            animation-delay: 0s, 2s;
          }
       </style>
    </foreignObject>
