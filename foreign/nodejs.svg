@@ -9,25 +9,39 @@
                 xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
                 xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
                 <path id="s" d="M77.91,81.445C66.184,81.445 63.601,78.21 62.74,72.379C62.64,71.751 62.107,71 61.468,71L55.737,71C55.028,71 54.458,71.86 54.458,72.566C54.458,80.032 58.517,89.078 77.911,89.078C91.95,89.078 99.999,83.623 99.999,73.969C99.999,64.397 93.532,61.885 79.917,60.083C66.155,58.264 64.757,57.345 64.757,54.121C64.757,51.463 65.941,47.918 76.131,47.918C85.236,47.918 88.592,49.872 89.973,56.009C90.091,56.586 90.618,57 91.213,57L96.967,57C97.321,57 97.659,56.857 97.907,56.604C98.147,56.332 98.274,55.991 98.242,55.625C97.351,45.057 90.33,40.132 76.13,40.132C63.499,40.132 55.964,45.466 55.964,54.407C55.964,64.105 63.461,66.785 75.586,67.984C90.091,69.406 91.219,71.526 91.219,74.379C91.219,79.334 87.241,81.445 77.91,81.445Z" style="fill:#83cd29;fill-rule:nonzero;"/>
-                <path id="j" d="M14.073,91.882L64,121.371L113.068,92.935L113.053,35.041L64,6.576L13.937,35.511L14.073,91.882L50.213,113.087L64,121.371L113.068,92.935L113.053,35.041L64,6.576L13.937,35.511L14.073,91.882C18.86,95.189 20.774,97.933 34.168,102.929C41.364,103.762 45.118,101.154 45.43,95.103L45.492,44.537" style="fill:none;stroke:#83cd29;stroke-width:8px;"/>
+                <path id="j" d="M50.213,113.087L64,121.371L113.068,92.935L113.053,35.041L64,6.576L13.937,35.511L14.073,91.882C19.958,96.552 26.334,100.3 34.168,102.929C41.157,103.936 45.484,100.938 45.43,95.103L45.492,44.537" style="fill:none;stroke:#83cd29;stroke-width:8px;"/>
             </svg>
         </div>
         <style>
-            <!-- @keyframes j-line {
+            @keyframes j-line {
                 from {
-                    stroke-dasharray: 100 400;
-                    stroke-dashoffset: 1300;
+                    stroke-dasharray: 400 500;
+                    stroke-dashoffset: 500;
                 }
                 to {
-                    stroke-dasharray: 100 400;
+                    stroke-dasharray: 400 500;
                     stroke-dashoffset: 10;
                 }
             }
 
+            @keyframes s-slide {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+
             #j {
-                animation: j-line 2s ease-in forwards;
-            } -->
+                animation: j-line 3s ease-in forwards;
+            }
+
+            #s {
+                animation: s-slide 1s ease-in forwards;
+            }
         </style>
     </foreignObject>
 </svg>
+
 
