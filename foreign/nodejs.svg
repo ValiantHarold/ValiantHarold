@@ -16,7 +16,7 @@
             @keyframes j-line {
                 from {
                     stroke-dasharray: 400 500;
-                    stroke-dashoffset: 500;
+                    stroke-dashoffset: 400;
                 }
                 to {
                     stroke-dasharray: 400 500;
@@ -34,11 +34,14 @@
         }
 
             #j {
-                animation: j-line 3s ease-in forwards;
+                stroke-dasharray: 400 500;
+                stroke-dashoffset: 400;
+                animation: j-line 1s ease-out forwards;
+                animation-delay: 1.5s;
             }
 
             #s {
-                animation: s-slide 1s ease-in forwards;
+                animation: s-slide 1.5s ease-out forwards;
             }
         </style>
     </foreignObject>
