@@ -15,6 +15,14 @@
             </svg>
         </div>
         <style>
+            @keyframes slide {
+                0% {
+                    transform: translateX(100%);
+                }
+                100% {
+                    transform: translateX(0);
+                }
+            }
             @keyframes line {
                 from {
                     stroke-dasharray: 280 300;
@@ -26,17 +34,17 @@
                 }
             }
 
-            #ring-1 {
+            #core {
+                animation: slide 1.2s ease-out forwards;
+            }
+
+            #ring-1,
+            #ring-2,
+            #ring-3 {
                 stroke-dasharray: 280 300;
                 stroke-dashoffset: 280;
                 animation: line 1.5s ease-out forwards;
                 animation-delay: 1s;
-            }
-            #ring-2 {
-                opacity: 0;
-            }
-            #ring-3 {
-                opacity: 0;
             }
         </style>
     </foreignObject>
