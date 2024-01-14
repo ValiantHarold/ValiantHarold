@@ -37,6 +37,78 @@
                     fill: white;
                 }
             }
+
+            @keyframes down {
+                0% {
+                    transform: translateY(-100%);
+                }
+                90% {
+                    transform: translateY(2%);
+                }
+                100% {
+                    transform: translateY(0);
+                }
+            }
+
+            @keyframes up{
+                0% {
+                    transform: translateY(100%);
+                }
+                90% {
+                    transform: translateY(-2%);
+                }
+                100% {
+                    transform: translateY(0);
+                }
+            }
+
+            #pandas-1 {
+                transform: translateY(-100%);
+                animation: down 1.5s ease-out forwards;
+                animation-delay: 0s;
+            }
+
+            #pandas-2 {
+                transform: translateY(100%);
+                animation: up 1.5s ease-out forwards;
+                animation-delay: 0.2s;
+            }
+
+            #pandas-3 {
+                transform: translateY(100%);
+                animation: up 1.5s ease-out forwards;
+                animation-delay: 0.4s;
+            }
+            
+            #pandas-4 {
+                transform: translateY(100%);
+                animation: up 1.5s ease-out forwards;
+                animation-delay: 0.6s;
+            }
+
+            #pandas-5 {
+                transform: translateY(-100%);
+                animation: down 1.5s ease-out forwards;
+                animation-delay: 1.2s;
+            }
+
+            #pandas-6 {
+                transform: translateY(-100%);
+                animation: down 1.5s ease-out forwards;
+                animation-delay: 1s;
+            }
+
+            #pandas-7 {
+                transform: translateY(-100%);
+                animation: down 1.5s ease-out forwards;
+                animation-delay: 0.8s;
+            }
+            
+            #pandas-8 {
+                transform: translateY(100%);
+                animation: up 1.5s ease-out forwards;
+                animation-delay: 1.4s;
+            }
         </style>
     </foreignObject>
 </svg>
