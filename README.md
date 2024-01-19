@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools (Animations in Progress)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
