@@ -13,9 +13,34 @@
             </svg>
         </div>
         <style>
+
+            @keyframes up {
+                0% {
+                    transform: translatey(100%);
+                }
+                100% {
+                    transform: translatey(0);
+                }
+            }
+
+            @keyframes grow {
+                0% {
+                    transform: scale(0.01);
+                }
+                100% {
+                    transform: scale(1);
+                }
+            }
+
             #leaf {
-                opacity: 0;
+                transform-origin: bottom center;
+                animation:up 0.5s ease-out forwards, grow 2s ease-out forwards;
+                animation-delay: 0 1s;
                 
+            }
+
+            #stem {
+                animation: up 0.5s ease-out forwards;
             }
         </style>
     </foreignObject>
