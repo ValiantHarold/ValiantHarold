@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path id="angular" d="M63.81,1.026L4.553,21.88L13.916,99.517L63.873,126.974L114.087,99.146L123.447,21.511L63.81,1.026ZM63.672,11.725L63.672,11.724L63.673,11.729L101.996,93.476L88.922,93.234L80.88,74.604L63.708,74.587L63.672,74.604L48.044,74.604L40.697,92.978L27.034,93.232L63.671,11.726L63.671,11.724L63.672,11.725ZM63.77,37.859L52.864,63.726L63.671,63.726L64.262,63.746L76.144,63.746L63.77,37.859Z" style="fill:#dd1b16;fill-rule:nonzero;"/>
+<svg fill="none" viewBox="0 0 128 128" width="50" height="50"
+    xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+                xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                <path id="middle" d="M63.77,37.859L52.864,63.726L76.144,63.746L63.77,37.859Z" style="fill:#dd1b16;fill-rule:nonzero;"/>
+                <path id="bot" d="M63.873,126.974L114.087,99.146L114.828,93.001L88.922,93.234L80.88,74.604L48.044,74.604L40.697,92.978L13.129,92.992L13.916,99.517L63.873,126.974Z" style="fill:#dd1b16;"/>
+                <path id="left" d="M63.81,1.026L4.553,21.88L13.916,99.517L16.158,100.749L27.225,92.985L63.672,11.724L68.273,2.559L63.81,1.026Z" style="fill:#dd1b16;"/>
+                <path id="right" d="M63.81,1.026L123.447,21.511L114.087,99.146L111.645,100.499L101.838,93.118L63.671,11.724L59.218,2.642L63.81,1.026Z" style="fill:#dd1b16;"/>
+            </svg>
+        </div>
+        <style>
+
+        @keyframes reveal-bot {
+            0% {
+               transform: translateY(100%);
+            }
+            100% {
+               transform: translateY(0);
+            }
+        }
+        @keyframes reveal-left {
+            0% {
+               transform: translateY(100%);
+            }
+            100% {
+               transform: translateY(0);
+            }
+        }
+        
+        @keyframes reveal-right {
+            0% {
+               transform: translateY(100%);
+            }
+            100% {
+               transform: translateY(0);
+            }
+        }
+
+        #bot {
+            animation: reveal-bot 2s ease-out forwards;
+        }
+
+        </style>
+    </foreignObject>
 </svg>
