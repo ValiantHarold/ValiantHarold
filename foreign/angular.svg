@@ -24,26 +24,50 @@
                transform: translateY(0);
             }
         }
+
         @keyframes reveal-left {
             0% {
-               transform: translateY(100%);
+               transform: translate(-100%, -100%);
             }
             100% {
-               transform: translateY(0);
+               transform: translate(0, 0);
             }
         }
-        
+
         @keyframes reveal-right {
             0% {
-               transform: translateY(100%);
+               transform: translate(100%, -100%);
             }
             100% {
-               transform: translateY(0);
+               transform: translate(0, 0);
+            }
+        }
+
+        @keyframes reveal-middle {
+            0% {
+               opacity: 0;
+            }
+            100% {
+               opacity: 1;
             }
         }
 
         #bot {
             animation: reveal-bot 2s ease-out forwards;
+        }
+
+        #left {
+            animation: reveal-left 2s ease-out forwards;
+        }
+
+        #right {
+            animation: reveal-right 2s ease-out forwards;
+        }
+
+        #middle {
+            opacity: 0;
+            animation: reveal-middle 1s ease-out forwards;
+            animation-delay: 2s;
         }
 
         </style>
