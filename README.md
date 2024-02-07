@@ -24,6 +24,8 @@ Here are some ideas to get you started:
    <img alt="TypeScript" width="50px" style="padding:5px;" src="./foreign/typeScript.svg" />
    <img alt="JavaScript" width="50px" style="padding:5px;" src="./foreign/javaScript.svg" />
    <img alt="R" width="50px" style="padding:5px;" src="./foreign/r.svg" />
+   <img alt="Lua" width="50px" style="padding:5px;" src="./foreign/lua.svg" />
+   <img alt="Go" width="50px" style="padding:5px;" src="./foreign/go.svg" />
    <img alt="Rust" width="50px" style="padding:5px;" src="./foreign/rust.svg" />
 
    <!-- Source Control -->
