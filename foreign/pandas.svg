@@ -19,6 +19,11 @@
             </svg>
         </div>
         <style>
+
+            :root {
+                --duration: 1.5s;
+            }
+
             #pandas-1,
             #pandas-2,
             #pandas-4,
@@ -64,49 +69,49 @@
 
             #pandas-1 {
                 transform: translateY(-100%);
-                animation: down 1.5s ease-out forwards;
+                animation: down var(--duration) ease-out forwards;
                 animation-delay: 0s;
             }
 
             #pandas-2 {
                 transform: translateY(100%);
-                animation: up 1.5s ease-out forwards;
+                animation: up var(--duration) ease-out forwards;
                 animation-delay: 0.2s;
             }
 
             #pandas-3 {
                 transform: translateY(100%);
-                animation: up 1.5s ease-out forwards;
+                animation: up var(--duration) ease-out forwards;
                 animation-delay: 0.4s;
             }
             
             #pandas-4 {
                 transform: translateY(100%);
-                animation: up 1.5s ease-out forwards;
+                animation: up var(--duration) ease-out forwards;
                 animation-delay: 0.6s;
             }
 
             #pandas-5 {
                 transform: translateY(-100%);
-                animation: down 1.5s ease-out forwards;
+                animation: down var(--duration) ease-out forwards;
                 animation-delay: 1.2s;
             }
 
             #pandas-6 {
                 transform: translateY(-100%);
-                animation: down 1.5s ease-out forwards;
+                animation: down var(--duration) ease-out forwards;
                 animation-delay: 1s;
             }
 
             #pandas-7 {
                 transform: translateY(-100%);
-                animation: down 1.5s ease-out forwards;
+                animation: down var(--duration) ease-out forwards;
                 animation-delay: 0.8s;
             }
             
             #pandas-8 {
                 transform: translateY(100%);
-                animation: up 1.5s ease-out forwards;
+                animation: up var(--duration) ease-out forwards;
                 animation-delay: 1.4s;
             }
         </style>
